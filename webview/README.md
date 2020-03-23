@@ -1,7 +1,12 @@
 # webview
 
-A new Flutter project.
+A Flutter web Browser.
+A Flutter plugin that provides a WebView widget.
 
+On iOS the WebView widget is backed by a WKWebView; On Android the WebView widget is backed by a WebView.
+
+Add webview_flutter as a dependency in your pubspec.yaml file.
+You can now include a WebView widget in your widget tree. See the WebView widget's Dartdoc for more details on how to use the widget.
 ## Getting Started
 
 This project is a starting point for a Flutter application.
